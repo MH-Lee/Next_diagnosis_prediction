@@ -1,0 +1,7 @@
+data/
+.ipynb_checkpoints/
+.hypothesis/
+log/
+notebook/
+results/
+__pycache__/
